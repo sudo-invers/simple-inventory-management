@@ -1,2 +1,2 @@
 # simple-inventory-management
-must for practice than practical use
+most for practice than practical use
